@@ -1,6 +1,6 @@
 Khóa luận tốt nghiệp: Nghiên cứu chế tạo hệ thống đa cảm biến ứng dụng cảnh báo độ chín trái cây 
 
-- Cấu tạo hệ thống thiết bị:
+* Cấu tạo hệ thống thiết bị:
 + Sử dụng thùng kín để đặt trái cây cần phân tích và hệ cảm biến.
   
 - Hệ thống đa cảm biến gồm:
